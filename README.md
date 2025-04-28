@@ -45,8 +45,8 @@ It uses a **Deep Learning model** trained to recognize emotions like Angry, Happ
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/PankajMahanto/Human_Emotion_Detection_WAPPS
+   cd Human_Emotion_Detection_WAPPS
 
 ---
 
